@@ -21,7 +21,8 @@ The project is developed using **Microsoft Access (.accdb)** format.
 - Microsoft Access 2016 or later  
 - Windows OS (recommended)
 
-- 🧩 Features
+
+## 🧩 Features
 Student Management:
 Register, update, and view student profiles and details.
 
